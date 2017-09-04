@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\user\documents\visual studio 2017\projects\practice problems\helloworld\main.cpp(13): warning C4018: '<=': signed/unsigned mismatch
+  HelloWorld.vcxproj -> C:\Users\User\documents\visual studio 2017\Projects\Practice Problems\Debug\HelloWorld.exe
+  HelloWorld.vcxproj -> C:\Users\User\documents\visual studio 2017\Projects\Practice Problems\Debug\HelloWorld.pdb (Partial PDB)

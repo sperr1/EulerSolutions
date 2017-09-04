@@ -1,0 +1,8 @@
+﻿  Main.cpp
+Main.cpp(37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  2 of 15 functions (13.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SumSquareDifference.vcxproj -> C:\Users\User\documents\visual studio 2017\Projects\Practice Problems\Release\SumSquareDifference.exe
